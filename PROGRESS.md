@@ -58,15 +58,15 @@ SESSION NOTE (default taken, no one to ask): origin chrismacklinstreet/Test had 
 | W3C | Q1064 | NOT IN BUNDLE | see HANDBACK-W3C |
 | W3C | Q10013 | NOT IN BUNDLE | see HANDBACK-W3C |
 | W3C | Q509 | NOT IN BUNDLE | see HANDBACK-W3C |
-| W3D | Q1016 | TODO |  |
-| W3D | Q491 | TODO |  |
-| W3D | Q988 | TODO |  |
-| W3D | Q9908 | TODO |  |
-| W3D | Q933 | TODO |  |
-| W3D | Q982 | TODO |  |
-| W3D | Q173 | TODO |  |
-| W3D | Q1160 | TODO |  |
-| W3D | Q9994 | TODO |  |
+| W3D | Q1016 | NOT IN BUNDLE | see HANDBACK-W3D |
+| W3D | Q491 | NOT IN BUNDLE | see HANDBACK-W3D |
+| W3D | Q988 | NOT IN BUNDLE | see HANDBACK-W3D |
+| W3D | Q9908 | NOT IN BUNDLE | see HANDBACK-W3D |
+| W3D | Q933 | NOT IN BUNDLE | see HANDBACK-W3D |
+| W3D | Q982 | NOT IN BUNDLE | see HANDBACK-W3D |
+| W3D | Q173 | NOT IN BUNDLE | see HANDBACK-W3D |
+| W3D | Q1160 | NOT IN BUNDLE | see HANDBACK-W3D |
+| W3D | Q9994 | NOT IN BUNDLE | see HANDBACK-W3D |
 | W3E | Q802 | TODO |  |
 | W3E | Q962 | TODO |  |
 | W3E | Q963 | TODO |  |
