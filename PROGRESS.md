@@ -85,15 +85,15 @@ SESSION NOTE (default taken, no one to ask): origin chrismacklinstreet/Test had 
 | W3H | Q984 | NOT IN BUNDLE | see HANDBACK-W3H |
 | W3H | Q986 | NOT IN BUNDLE | see HANDBACK-W3H |
 | W3H | Q958 | NOT IN BUNDLE | see HANDBACK-W3H |
-| W3I | Q1001 | TODO |  |
-| W3I | Q1017 | TODO |  |
-| W3I | Q199 | TODO |  |
-| W3I | Q526 | TODO |  |
-| W3I | Q877 | TODO |  |
-| W3I | Q920 | TODO |  |
-| W3I | Q926 | TODO |  |
-| W3I | Q929 | TODO |  |
-| W3I | Q931 | TODO |  |
-| W3I | Q816 | TODO |  |
+| W3I | Q1001 | NOT IN BUNDLE | see HANDBACK-W3I |
+| W3I | Q1017 | NOT IN BUNDLE | see HANDBACK-W3I |
+| W3I | Q199 | NOT IN BUNDLE | see HANDBACK-W3I |
+| W3I | Q526 | NOT IN BUNDLE | see HANDBACK-W3I |
+| W3I | Q877 | NOT IN BUNDLE | see HANDBACK-W3I |
+| W3I | Q920 | NOT IN BUNDLE | see HANDBACK-W3I |
+| W3I | Q926 | NOT IN BUNDLE | see HANDBACK-W3I |
+| W3I | Q929 | NOT IN BUNDLE | see HANDBACK-W3I |
+| W3I | Q931 | NOT IN BUNDLE | see HANDBACK-W3I |
+| W3I | Q816 | NOT IN BUNDLE | see HANDBACK-W3I |
 | W3F | Q9949 | TODO |  |
 | W3F | Q9950 | TODO |  |
