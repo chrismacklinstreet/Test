@@ -18,14 +18,14 @@ SESSION NOTE (default taken, no one to ask): origin chrismacklinstreet/Test had 
 
 | Job | Queue id | State | Commit |
 |---|---|---|---|
-| W3A | Q10095 | TODO |  |
-| W3A | Q10105 | TODO |  |
-| W3A | Q9911 | TODO |  |
-| W3A | Q9976 | TODO |  |
-| W3A | Q1156 | TODO |  |
-| W3A | Q130 | TODO |  |
-| W3A | Q9970 | TODO |  |
-| W3A | Q10124 | TODO |  |
+| W3A | Q10095 | NOT IN BUNDLE | see HANDBACK-W3A |
+| W3A | Q10105 | NOT IN BUNDLE | see HANDBACK-W3A |
+| W3A | Q9911 | NOT IN BUNDLE | see HANDBACK-W3A |
+| W3A | Q9976 | NOT IN BUNDLE | see HANDBACK-W3A |
+| W3A | Q1156 | NOT IN BUNDLE | see HANDBACK-W3A |
+| W3A | Q130 | NOT IN BUNDLE | see HANDBACK-W3A |
+| W3A | Q9970 | NOT IN BUNDLE | see HANDBACK-W3A |
+| W3A | Q10124 | NOT IN BUNDLE | see HANDBACK-W3A |
 | W3G | Q041 | TODO |  |
 | W3G | Q10103 | TODO |  |
 | W3G | Q1198 | TODO |  |
