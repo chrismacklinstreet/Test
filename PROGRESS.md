@@ -67,13 +67,13 @@ SESSION NOTE (default taken, no one to ask): origin chrismacklinstreet/Test had 
 | W3D | Q173 | NOT IN BUNDLE | see HANDBACK-W3D |
 | W3D | Q1160 | NOT IN BUNDLE | see HANDBACK-W3D |
 | W3D | Q9994 | NOT IN BUNDLE | see HANDBACK-W3D |
-| W3E | Q802 | TODO |  |
-| W3E | Q962 | TODO |  |
-| W3E | Q963 | TODO |  |
-| W3E | Q9936 | TODO |  |
-| W3E | Q954 | TODO |  |
-| W3E | Q9931 | TODO |  |
-| W3E | Q126 | TODO |  |
+| W3E | Q802 | NOT IN BUNDLE | see HANDBACK-W3E |
+| W3E | Q962 | NOT IN BUNDLE | see HANDBACK-W3E |
+| W3E | Q963 | NOT IN BUNDLE | see HANDBACK-W3E |
+| W3E | Q9936 | NOT IN BUNDLE | see HANDBACK-W3E |
+| W3E | Q954 | NOT IN BUNDLE | see HANDBACK-W3E |
+| W3E | Q9931 | NOT IN BUNDLE | see HANDBACK-W3E |
+| W3E | Q126 | NOT IN BUNDLE | see HANDBACK-W3E |
 | W3H | Q10037 | TODO |  |
 | W3H | Q10065 | TODO |  |
 | W3H | Q10066 | TODO |  |
