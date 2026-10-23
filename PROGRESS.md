@@ -26,12 +26,12 @@ SESSION NOTE (default taken, no one to ask): origin chrismacklinstreet/Test had 
 | W3A | Q130 | NOT IN BUNDLE | see HANDBACK-W3A |
 | W3A | Q9970 | NOT IN BUNDLE | see HANDBACK-W3A |
 | W3A | Q10124 | NOT IN BUNDLE | see HANDBACK-W3A |
-| W3G | Q041 | TODO |  |
-| W3G | Q10103 | TODO |  |
-| W3G | Q1198 | TODO |  |
-| W3G | Q438 | TODO |  |
-| W3G | Q959 | TODO |  |
-| W3G | Q10140 | TODO |  |
+| W3G | Q041 | NOT IN BUNDLE | see HANDBACK-W3G |
+| W3G | Q10103 | NOT IN BUNDLE | see HANDBACK-W3G |
+| W3G | Q1198 | NOT IN BUNDLE | see HANDBACK-W3G |
+| W3G | Q438 | NOT IN BUNDLE | see HANDBACK-W3G |
+| W3G | Q959 | NOT IN BUNDLE | see HANDBACK-W3G |
+| W3G | Q10140 | NOT IN BUNDLE | see HANDBACK-W3G |
 | W3B | Q087 | TODO |  |
 | W3B | Q10034 | TODO |  |
 | W3B | Q10067 | TODO |  |
