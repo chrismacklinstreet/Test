@@ -25,7 +25,7 @@
 |---|---|---|---|---|---|
 | Q041 | blocked-route items A and B | NOT IN BUNDLE: bridge-enforcement-hooks source copy, estate hook tools missing | none | none / none | rerun this row on the real base branch |
 | Q10103 | first-turn deadlock access-ask gate vs scope ledger | NOT IN BUNDLE: bridge-enforcement-hooks source copy, estate hook tools missing | none | none / none | rerun this row on the real base branch |
-| Q1198 | EML layout and build gate | NOT IN BUNDLE: bridge-enforcement-hooks source copy, estate hook tools missing | none | none / none | rerun this row on the real base branch |
+| Q1198 | EML layout and build gate | NOT IN BUNDLE: bridge-enforcement-hooks source copy, estate hook tools missing (the PNG render part is NOT CLOUD in any case) | none | none / none | rerun this row on the real base branch |
 | Q438 | build cadence default check and wording | NOT IN BUNDLE: bridge-enforcement-hooks source copy, estate hook tools missing | none | none / none | rerun this row on the real base branch |
 | Q959 | wording-only stop gates warn once, behind a switch | NOT IN BUNDLE: bridge-enforcement-hooks source copy, estate hook tools missing | none | none / none | rerun this row on the real base branch |
-| Q10140 | Project Finish board wiring audit | NOT IN BUNDLE: bridge-enforcement-hooks source copy, estate hook tools missing | none | none / none | rerun this row on the real base branch |
+| Q10140 | Project Finish board wiring audit | NOT IN BUNDLE: bridge-enforcement-hooks source copy, estate hook tools missing (not PARTIAL: no board file and no wiring code to audit) | none | none / none | rerun this row on the real base branch |

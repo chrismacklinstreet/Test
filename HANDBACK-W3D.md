@@ -31,4 +31,4 @@
 | Q982 | build-spec consistency tool | NOT IN BUNDLE: tools/build_queue.py, api_credit_runner, project_finish_progress.py missing | none | none / none | rerun this row on the real base branch |
 | Q173 | one build prompt per build queue | NOT IN BUNDLE: tools/build_queue.py, api_credit_runner, project_finish_progress.py missing | none | none / none | rerun this row on the real base branch |
 | Q1160 | project_finish_progress.py parses args before lock | NOT IN BUNDLE: tools/build_queue.py, api_credit_runner, project_finish_progress.py missing | none | none / none | rerun this row on the real base branch |
-| Q9994 | re-check W01 to W11 items | NOT IN BUNDLE: tools/build_queue.py, api_credit_runner, project_finish_progress.py missing | none | none / none | rerun this row on the real base branch |
+| Q9994 | re-check W01 to W11 items | NOT CLOUD: needs the PC archive of W01 to W11 | none | none / none | rerun this row on the real base branch |

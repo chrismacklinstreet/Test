@@ -1,8 +1,19 @@
 # HANDBACK-ALL: W3 foreman campaign, 23 Oct 2026
 
-All 79 rows are NOT IN BUNDLE. chrismacklinstreet/Test had no branches and no commits, so origin/clean-copy-2026-10-21, the tools folder, cockpit_app and bridge-enforcement-hooks were not there to work on. No code was written, so the PC has nothing to apply from this branch.
+## Done
 
-Yours: put clean-copy-2026-10-21 where a cloud session can reach it (push it to Test, or attach the repository that holds it), then relaunch with the same brief. The new session will take this branch as a resume: set the rows in PROGRESS.md back to TODO first, or start from a fresh branch name.
+- PROGRESS.md with the rules, nine job handbacks, this table. Every row closed.
+
+## Not done
+
+- 78 rows NOT IN BUNDLE and 1 row NOT CLOUD (Q9994). chrismacklinstreet/Test had no branches and no commits, so origin/clean-copy-2026-10-21, the tools folder, cockpit_app and bridge-enforcement-hooks were not there.
+- No new tools were written blind (for example a selftest runner for Q9949 or a spec checker for Q982). This branch shares no history with clean-copy-2026-10-21, and code written without seeing the estate's conventions or existing files would likely clash with them on the PC.
+
+## Yours
+
+- Put clean-copy-2026-10-21 where a cloud session can reach it (push it to Test, or attach the repository that holds it), then relaunch with the same brief on a fresh branch name, or set the rows in PROGRESS.md back to TODO first.
+
+## Rows
 
 | Job | Queue id | State | Commit |
 |---|---|---|---|
@@ -54,7 +65,7 @@ Yours: put clean-copy-2026-10-21 where a cloud session can reach it (push it to 
 | W3D | Q982 | NOT IN BUNDLE | 49512bc |
 | W3D | Q173 | NOT IN BUNDLE | 49512bc |
 | W3D | Q1160 | NOT IN BUNDLE | 49512bc |
-| W3D | Q9994 | NOT IN BUNDLE | 49512bc |
+| W3D | Q9994 | NOT CLOUD | 49512bc |
 | W3E | Q802 | NOT IN BUNDLE | eb5ca58 |
 | W3E | Q962 | NOT IN BUNDLE | eb5ca58 |
 | W3E | Q963 | NOT IN BUNDLE | eb5ca58 |
