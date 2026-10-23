@@ -95,5 +95,5 @@ SESSION NOTE (default taken, no one to ask): origin chrismacklinstreet/Test had 
 | W3I | Q929 | NOT IN BUNDLE | see HANDBACK-W3I |
 | W3I | Q931 | NOT IN BUNDLE | see HANDBACK-W3I |
 | W3I | Q816 | NOT IN BUNDLE | see HANDBACK-W3I |
-| W3F | Q9949 | TODO |  |
-| W3F | Q9950 | TODO |  |
+| W3F | Q9949 | NOT IN BUNDLE | see HANDBACK-W3F |
+| W3F | Q9950 | NOT IN BUNDLE | see HANDBACK-W3F |
